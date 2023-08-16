@@ -11,4 +11,4 @@ image tiler for the BUDA IIIF server
 - https://journal.code4lib.org/articles/14933
 - https://iipimage.sourceforge.io/documentation/images
 - https://quire.getty.edu/docs-v1/zooming-images/
-- https://github.com/lovell/sharp
+- https://github.com/lovell/sharp/blob/main/docs/api-output.md#tile
